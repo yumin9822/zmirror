@@ -1,5 +1,5 @@
 # coding=utf-8
-# 这是 thumblr.com 的配置文件
+# 这是 tumblr.com 的配置文件
 #
 # 使用方法:
 #   1. 复制本文件到 zmirror 根目录(wsgi.py所在目录), 并重命名为 config.py
