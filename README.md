@@ -47,6 +47,10 @@ More screenshots are here: [wiki-screenshots](https://github.com/aploium/zmirror
 ## 一键部署脚本
 https://github.com/aploium/zmirror-onekey  
 
+## 你也可以尝试下面的一键部署shell脚本
+支持Ubuntu14.04, 16.04, 16.10  CentOS 6 Debian7,8. 推荐ubuntu系统 Made by yumin9822
+https://github.com/yumin9822/zmirror-docker
+
 ## builtin configs
 Together with the program, provided several (almost) out-of-box configs  
  
